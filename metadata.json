@@ -1,0 +1,7 @@
+{
+  "name": "SENA Meta - Producción Audiovisual Guion MiPymes",
+  "description": "Suite audiovisual y guion técnico interactivo para el proyecto de investigación SENA: Diagnóstico y mejora de procesos administrativos con herramientas digitales en MiPymes del Meta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
